@@ -1,0 +1,9 @@
+original_pdb HEM_combined_renum.pdb
+group_name HEM
+cut_off 2.8
+ion_ids 75
+software_version g16
+ion_mol2files FE.mol2
+naa_mol2files PIX.mol2
+frcmod_files PIX.frcmod
+large_opt 1
